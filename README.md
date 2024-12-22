@@ -24,3 +24,4 @@
 
 ## Ссылка на сайт
 
+[GitPages](https://sofyastaul.github.io/russian-travel-main/)
